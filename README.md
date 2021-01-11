@@ -12,16 +12,24 @@
 
 
 
-### Hướng dẫn nhanh
+## Hướng dẫn nhanh
 
-- Cái này không phải là plugin, do đó bạn phải thực hiện bằng tay, không có gì khó cả, [download](https://github.com/lfj-io/AnimajiXen/releases/latest) về giải nén, upload thư mục `LFJAnimateEmoji` cùng 2 file `StickerAnimate.css` và `StickerAnimate.min.js`, để vào `/sytle/` . Sau đó vào Admin của XenfoXo => Smilies (Mặt cười). Để tiện quản lý thì các bạn tạo một Group cho smilies chuẩn bị nhập, rồi ghi đường dẫn vào nhập là xong
+### CDN
+- Sử dụng CDN 
+-`https://cdn.jsdelivr.net/gh/lfj-io/files/js/AnimajiXen.min.js` right before `</body>`
+-`https://cdn.jsdelivr.net/gh/lfj-io/files/css/AnimajiXen.min.css` add to head of style `PAGE_CONTAINER`
+- Download & import [smilies.xml](https://raw.githubusercontent.com/lfj-io/AnimajiXen/609c4538ad508d2ad40b070f4d5898ebf9452b4d/smilies.xml)
+- Done~
+
+### Selfhost
+
+- [Download](https://github.com/lfj-io/AnimajiXen/releases/latest) latest releases extract and upload folder `LFJAnimateEmoji` and 2 files is `StickerAnimate.css` & `StickerAnimate.min.js`, to your xenrofo `/sytle/` . Then go to Admin => Smilies, chosse import, type patch of `LFJAnimateEmoji` folder.
 
 <img src="https://i.imgur.com/7qbmYCp.png" />
 
-#### Chèn Script và CSS để nó hoạt động.
+#### Add js and css to make it work
 
-- Bạn vào chỗ giao diện, hoặc dùng thanh tìm kiếm trong Admin, tìm  `PAGE_CONTAINER` . 
-- Thêm ` <link type="text/css" rel="stylesheet" href="./styles/StickerAnimate.css" />` ngay trên đầu
-- Bấm CTRL+F tìm `</body>` và thêm `<script src="/styles/StickerAnimate.min.js"></script>` trước chữ `</body>`
-- Save lại, và kích hoạt mặt cười. Nó đã hoạt động rồi đó.
-
+- Go to templates find  `PAGE_CONTAINER` . 
+- add ` <link type="text/css" rel="stylesheet" href="./styles/StickerAnimate.css" />` in top of `PAGE_CONTAINER`
+- CTRL+F to find `</body>`, add this one right before that:  `<script src="/styles/StickerAnimate.min.js"></script>` then save.
+- Done

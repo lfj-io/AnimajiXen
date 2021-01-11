@@ -18,6 +18,8 @@
 
 #### Chèn Script và CSS để nó hoạt động.
 
-- Bạn vào chỗ giao diện, hoặc dùng thanh tìm kiếm trong Admin, tìm  `PAGE_CONTAINER` . Rồi thêm ` <link type="text/css" rel="stylesheet" href="./styles/StickerAnimate.css" />` ngay trên đầu , bấm CTRL+F tìm `</body>` và thêm `<script src="/styles/StickerAnimate.min.js"></script>` trước chữ `</body>`
-Save lại, và kích hoạt mặt cười. Nó đã hoạt động rồi đó.
+- Bạn vào chỗ giao diện, hoặc dùng thanh tìm kiếm trong Admin, tìm  `PAGE_CONTAINER` . 
+- Thêm ` <link type="text/css" rel="stylesheet" href="./styles/StickerAnimate.css" />` ngay trên đầu
+- Bấm CTRL+F tìm `</body>` và thêm `<script src="/styles/StickerAnimate.min.js"></script>` trước chữ `</body>`
+- Save lại, và kích hoạt mặt cười. Nó đã hoạt động rồi đó.
 

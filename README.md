@@ -15,13 +15,9 @@
 ## Installation
 
 ### CDN
--  
--`https://cdn.jsdelivr.net/gh/lfj-io/files/js/AnimajiXen.min.js` right before `</body>`
-
--`https://cdn.jsdelivr.net/gh/lfj-io/files/css/AnimajiXen.min.css` add to head of style `PAGE_CONTAINER`
-
+- `https://cdn.jsdelivr.net/gh/lfj-io/files/js/AnimajiXen.min.js` right before `</body>`
+- `https://cdn.jsdelivr.net/gh/lfj-io/files/css/AnimajiXen.min.css` add to head of style `PAGE_CONTAINER`
 - Download & import [smilies.xml](https://raw.githubusercontent.com/lfj-io/AnimajiXen/609c4538ad508d2ad40b070f4d5898ebf9452b4d/smilies.xml)
-
 - Done~
 
 ### Selfhosting

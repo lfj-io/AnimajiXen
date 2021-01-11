@@ -1,0 +1,1179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smilies_export>
+  <smilie_categories>
+    <smilie_category id="4" title="Popo" display_order="0"/>
+    <smilie_category id="5" title="Zalo" display_order="0"/>
+  </smilie_categories>
+  <smilies>
+    <smilie smilie_category_id="4" title="Adore" display_order="10" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/adore.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:adore:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite" display_order="10" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="After Boom" display_order="20" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/after_boom.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:after-boom:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 10" display_order="20" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_10.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-10:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Ah" display_order="30" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/ah.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:ah:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 100" display_order="30" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_100.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-100:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Amazed" display_order="40" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/amazed.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:amazed:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 101" display_order="40" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_101.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-101:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Angry" display_order="50" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/angry.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:angry:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 102" display_order="50" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_102.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-102:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Bad Smelly" display_order="60" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/bad_smelly.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:bad-smelly:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 103" display_order="60" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_103.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-103:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Baffle" display_order="70" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/baffle.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:baffle:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 104" display_order="70" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_104.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-104:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Beat Brick" display_order="80" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/beat_brick.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:beat-brick:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 105" display_order="80" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_105.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-105:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Beat Plaster" display_order="90" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/beat_plaster.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:beat-plaster:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 106" display_order="90" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_106.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-106:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Beat Shot" display_order="100" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/beat_shot.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:beat-shot:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 107" display_order="100" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_107.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-107:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Beated" display_order="110" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/beated.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:beated:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 108" display_order="110" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_108.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-108:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Beauty" display_order="120" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/beauty.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:beauty:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 109" display_order="120" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_109.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-109:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Big Smile" display_order="130" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/big_smile.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:big-smile:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 11" display_order="130" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_11.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-11:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Boss" display_order="140" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/boss.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:boss:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 110" display_order="140" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_110.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-110:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Burn Joss Stick" display_order="150" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/burn_joss_stick.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:burn-joss-stick:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 111" display_order="150" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_111.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-111:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Byebye" display_order="160" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/byebye.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:byebye:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 112" display_order="160" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_112.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-112:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Canny" display_order="170" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/canny.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:canny:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 113" display_order="170" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_113.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-113:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Choler" display_order="180" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/choler.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:choler:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 114" display_order="180" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_114.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-114:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Cold" display_order="190" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/cold.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:cold:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 115" display_order="190" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_115.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-115:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Confident" display_order="200" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/confident.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:confident:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 116" display_order="200" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_116.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-116:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Confuse" display_order="210" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/confuse.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:confuse:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 117" display_order="210" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_117.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-117:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Cool 2" display_order="220" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/cool_2.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:cool-2:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 118" display_order="220" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_118.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-118:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Cry 2" display_order="230" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/cry_2.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:cry-2:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 119" display_order="230" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_119.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-119:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Doubt" display_order="240" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/doubt.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:doubt:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 12" display_order="240" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_12.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-12:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Dribble" display_order="250" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/dribble.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:dribble:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 120" display_order="250" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_120.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-120:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Embarrassed" display_order="260" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/embarrassed.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:embarrassed:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 121" display_order="260" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_121.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-121:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Extreme Sexy Girl" display_order="270" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/extreme_sexy_girl.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:extreme-sexy-girl:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 122" display_order="270" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_122.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-122:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Feel Good" display_order="280" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/feel_good.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:feel-good:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 123" display_order="280" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_123.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-123:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Go" display_order="290" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/go.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:go:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 124" display_order="290" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_124.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-124:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Haha" display_order="300" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/haha.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:haha:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 125" display_order="300" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_125.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-125:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Hell Boy" display_order="310" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/hell_boy.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:hell-boy:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 126" display_order="310" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_126.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-126:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Hungry" display_order="320" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/hungry.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:hungry:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 127" display_order="320" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_127.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-127:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Look Down" display_order="330" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/look_down.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:look-down:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 128" display_order="330" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_128.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-128:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Matrix" display_order="340" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/matrix.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:matrix:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 129" display_order="340" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_129.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-129:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Misdoubt" display_order="350" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/misdoubt.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:misdoubt:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 13" display_order="350" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_13.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-13:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Nosebleed" display_order="360" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/nosebleed.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:nosebleed:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 130" display_order="360" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_130.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-130:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Oh" display_order="370" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/oh.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:oh:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 131" display_order="370" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_131.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-131:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Ops" display_order="380" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/ops.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:ops:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 132" display_order="380" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_132.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-132:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Pudency" display_order="390" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/pudency.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:pudency:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 133" display_order="390" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_133.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-133:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Rap" display_order="400" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/rap.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:rap:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 134" display_order="400" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_134.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-134:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Sad" display_order="410" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/sad.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sad:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 135" display_order="410" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_135.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-135:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Sexy Girl" display_order="420" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/sexy_girl.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sexy-girl:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 136" display_order="420" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_136.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-136:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Shame" display_order="430" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/shame.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:shame:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 137" display_order="430" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_137.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-137:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Smile 2" display_order="440" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/smile_2.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:smile-2:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 138" display_order="440" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_138.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-138:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Spiderman" display_order="450" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/spiderman.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:spiderman:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 139" display_order="450" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_139.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-139:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 14" display_order="460" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_14.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-14:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Still Dreaming" display_order="460" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/still_dreaming.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:still-dreaming:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 140" display_order="470" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_140.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-140:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Sure" display_order="470" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/sure.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sure:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 141" display_order="480" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_141.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-141:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Surrender" display_order="480" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/surrender.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:surrender:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 142" display_order="490" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_142.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-142:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Sweat" display_order="490" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/sweat.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sweat:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 143" display_order="500" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_143.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-143:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Sweet Kiss" display_order="500" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/sweet_kiss.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sweet-kiss:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 144" display_order="510" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_144.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-144:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Tire" display_order="510" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/tire.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:tire:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 145" display_order="520" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_145.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-145:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Too Sad" display_order="520" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/too_sad.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:too-sad:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 146" display_order="530" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_146.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-146:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="Waaaht" display_order="530" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/waaaht.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:waaaht:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 147" display_order="540" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_147.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-147:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="4" title="What" display_order="540" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/Popo/what.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:what:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 148" display_order="550" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_148.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-148:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 149" display_order="560" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_149.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-149:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 15" display_order="570" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_15.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-15:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 150" display_order="580" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_150.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-150:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 151" display_order="590" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_151.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-151:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 152" display_order="600" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_152.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-152:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 153" display_order="610" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_153.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-153:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 154" display_order="620" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_154.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-154:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 155" display_order="630" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_155.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-155:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 156" display_order="640" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_156.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-156:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 157" display_order="650" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_157.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-157:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 158" display_order="660" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_158.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-158:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 159" display_order="670" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_159.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-159:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 16" display_order="680" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_16.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-16:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 160" display_order="690" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_160.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-160:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 161" display_order="700" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_161.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-161:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 162" display_order="710" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_162.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-162:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 163" display_order="720" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_163.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-163:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 164" display_order="730" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_164.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-164:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 165" display_order="740" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_165.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-165:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 166" display_order="750" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_166.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-166:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 167" display_order="760" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_167.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-167:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 168" display_order="770" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_168.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-168:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 169" display_order="780" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_169.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-169:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 170" display_order="790" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_170.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-170:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 171" display_order="800" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_171.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-171:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 172" display_order="810" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_172.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-172:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 173" display_order="820" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_173.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-173:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 174" display_order="830" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_174.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-174:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 175" display_order="840" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_175.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-175:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 176" display_order="850" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_176.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-176:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 177" display_order="860" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_177.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-177:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 178" display_order="870" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_178.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-178:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 179" display_order="880" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_179.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-179:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 18" display_order="890" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_18.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-18:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 180" display_order="900" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_180.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-180:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 181" display_order="910" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_181.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-181:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 182" display_order="920" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_182.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-182:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 183" display_order="930" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_183.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-183:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 184" display_order="940" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_184.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-184:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 185" display_order="950" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_185.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-185:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 19" display_order="960" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_19.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-19:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 20" display_order="970" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_20.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-20:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 22" display_order="980" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_22.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-22:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 23" display_order="990" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_23.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-23:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 25" display_order="1000" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_25.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-25:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 26" display_order="1010" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_26.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-26:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 27" display_order="1020" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_27.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-27:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 28" display_order="1030" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_28.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-28:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 29" display_order="1040" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_29.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-29:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 30" display_order="1050" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_30.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-30:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 31" display_order="1060" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_31.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-31:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 32" display_order="1070" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_32.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-32:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 33" display_order="1080" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_33.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-33:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 34" display_order="1090" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_34.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-34:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 35" display_order="1100" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_35.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-35:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 36" display_order="1110" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_36.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-36:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 37" display_order="1120" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_37.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-37:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 38" display_order="1130" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_38.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-38:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 39" display_order="1140" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_39.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-39:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 4" display_order="1150" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_4.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-4:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 40" display_order="1160" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_40.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-40:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 41" display_order="1170" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_41.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-41:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 42" display_order="1180" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_42.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-42:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 43" display_order="1190" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_43.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-43:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 44" display_order="1200" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_44.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-44:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 45" display_order="1210" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_45.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-45:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 46" display_order="1220" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_46.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-46:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 47" display_order="1230" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_47.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-47:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 48" display_order="1240" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_48.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-48:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 49" display_order="1250" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_49.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-49:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 5" display_order="1260" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_5.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-5:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 50" display_order="1270" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_50.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-50:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 51" display_order="1280" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_51.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-51:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 52" display_order="1290" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_52.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-52:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 53" display_order="1300" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_53.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-53:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 54" display_order="1310" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_54.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-54:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 55" display_order="1320" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_55.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-55:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 56" display_order="1330" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_56.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-56:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 57" display_order="1340" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_57.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-57:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 58" display_order="1350" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_58.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-58:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 59" display_order="1360" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_59.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-59:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 6" display_order="1370" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_6.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-6:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 60" display_order="1380" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_60.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-60:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 61" display_order="1390" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_61.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-61:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 62" display_order="1400" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_62.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-62:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 63" display_order="1410" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_63.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-63:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 64" display_order="1420" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_64.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-64:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 65" display_order="1430" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_65.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-65:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 66" display_order="1440" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_66.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-66:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 67" display_order="1450" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_67.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-67:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 68" display_order="1460" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_68.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-68:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 69" display_order="1470" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_69.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-69:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 7" display_order="1480" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_7.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-7:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 70" display_order="1490" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_70.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-70:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 71" display_order="1500" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_71.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-71:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 72" display_order="1510" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_72.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-72:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 73" display_order="1520" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_73.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-73:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 74" display_order="1530" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_74.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-74:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 75" display_order="1540" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_75.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-75:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 76" display_order="1550" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_76.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-76:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 77" display_order="1560" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_77.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-77:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 78" display_order="1570" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_78.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-78:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 79" display_order="1580" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_79.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-79:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 8" display_order="1590" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_8.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-8:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 80" display_order="1600" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_80.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-80:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 81" display_order="1610" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_81.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-81:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 82" display_order="1620" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_82.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-82:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 83" display_order="1630" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_83.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-83:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 84" display_order="1640" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_84.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-84:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 85" display_order="1650" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_85.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-85:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 86" display_order="1660" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_86.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-86:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 87" display_order="1670" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_87.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-87:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 88" display_order="1680" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_88.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-88:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 89" display_order="1690" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_89.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-89:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 9" display_order="1700" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_9.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-9:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 90" display_order="1710" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_90.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-90:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 91" display_order="1720" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_91.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-91:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 92" display_order="1730" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_92.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-92:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 93" display_order="1740" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_93.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-93:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 94" display_order="1750" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_94.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-94:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 95" display_order="1760" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_95.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-95:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 96" display_order="1770" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_96.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-96:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 97" display_order="1780" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_97.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-97:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 98" display_order="1790" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_98.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-98:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="5" title="Sprite 99" display_order="1800" display_in_editor="1">
+      <image_url>https://cdn.jsdelivr.net/gh/lfj-io/files/images/emoji/AnimajiXen/sprite_99.png</image_url>
+      <image_url_2x></image_url_2x>
+      <smilie_text>:sprite-99:</smilie_text>
+    </smilie>
+  </smilies>
+</smilies_export>

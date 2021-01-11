@@ -12,16 +12,19 @@
 
 
 
-## Hướng dẫn nhanh
+## Installation
 
 ### CDN
-- Sử dụng CDN 
+-  
 -`https://cdn.jsdelivr.net/gh/lfj-io/files/js/AnimajiXen.min.js` right before `</body>`
+
 -`https://cdn.jsdelivr.net/gh/lfj-io/files/css/AnimajiXen.min.css` add to head of style `PAGE_CONTAINER`
+
 - Download & import [smilies.xml](https://raw.githubusercontent.com/lfj-io/AnimajiXen/609c4538ad508d2ad40b070f4d5898ebf9452b4d/smilies.xml)
+
 - Done~
 
-### Selfhost
+### Selfhosting
 
 - [Download](https://github.com/lfj-io/AnimajiXen/releases/latest) latest releases extract and upload folder `LFJAnimateEmoji` and 2 files is `StickerAnimate.css` & `StickerAnimate.min.js`, to your xenrofo `/sytle/` . Then go to Admin => Smilies, chosse import, type patch of `LFJAnimateEmoji` folder.
 
@@ -31,5 +34,7 @@
 
 - Go to templates find  `PAGE_CONTAINER` . 
 - add ` <link type="text/css" rel="stylesheet" href="./styles/StickerAnimate.css" />` in top of `PAGE_CONTAINER`
+
 - CTRL+F to find `</body>`, add this one right before that:  `<script src="/styles/StickerAnimate.min.js"></script>` then save.
+
 - Done

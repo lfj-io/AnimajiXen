@@ -6,7 +6,7 @@
 
 ### Lưu ý :
 - Bạn tự chịu những rủi ro phát sinh khi sử dụng.
-- Mình đã config mọi thông số phù hợp sử dụng với bộ sticker của Zalo, và có sẵn 100 Emoji rồi, nếu không thích thì các bạn có thể tải thêm Sticker của zalo băng cách vào [chat.zalo.me](https://chat.zalo.me/) để bắt hình ảnh sticker cho nét nhất thì dùng DevTools có sẵn hoặc mấy chương trình bên ngoài như Fiddler.
+- Mình đã config mọi thông số phù hợp sử dụng với bộ sticker của Zalo, và có sẵn 100 Emoji rồi, nếu không thích thì các bạn có thể tải thêm Sticker của zalo băng cách vào [chat.zalo.me](https://chat.zalo.me/) để bắt hình ảnh sticker cho nét nhất thì dùng DevTools có sẵn, hoặc mấy chương trình bên ngoài như Fiddler.
 - Nếu muốn dùng sticker của facebook hoặc whatapp thì bạn phải biết chút chút code, để chỉnh lại thông số cho phù hợp, do mỗi bên làm 1 kiểu, chỉnh không đúng nó sẽ ... rất mắc cười.
 
 

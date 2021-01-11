@@ -14,7 +14,7 @@
 
 ### Hướng dẫn nhanh
 
-- Cái này không phải là plugin, do đó bạn phải thực hiện bằng tay, không có gì khó cả, [download](releases/tag/1.31e) về giải nén, upload thư mục `LFJAnimateEmoji` cùng 2 file `StickerAnimate.css` và `StickerAnimate.min.js`, để vào `/sytle/` . Sau đó vào Admin của XenfoXo => Smilies (Mặt cười). Để tiện quản lý thì các bạn tạo một Group cho smilies chuẩn bị nhập, rồi ghi đường dẫn vào nhập là xong
+- Cái này không phải là plugin, do đó bạn phải thực hiện bằng tay, không có gì khó cả, [download](https://github.com/lfj-io/AnimajiXen/releases/latest) về giải nén, upload thư mục `LFJAnimateEmoji` cùng 2 file `StickerAnimate.css` và `StickerAnimate.min.js`, để vào `/sytle/` . Sau đó vào Admin của XenfoXo => Smilies (Mặt cười). Để tiện quản lý thì các bạn tạo một Group cho smilies chuẩn bị nhập, rồi ghi đường dẫn vào nhập là xong
 
 <img src="https://i.imgur.com/7qbmYCp.png" />
 

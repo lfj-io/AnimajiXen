@@ -28,8 +28,4 @@
 3. Import [smilies.xml (not for selfhosting)](https://raw.githubusercontent.com/lfj-io/AnimajiXen/609c4538ad508d2ad40b070f4d5898ebf9452b4d/smilies.xml) at Admin >Templates> smilies . Done.
 
 
-## Selfhosting
-
-- [Download](https://github.com/lfj-io/AnimajiXen/releases/latest) latest releases extract and upload folder `LFJAnimateEmoji` and 2 files is `StickerAnimate.css` & `StickerAnimate.min.js`, to your xenrofo `/sytle/` . Then go to Admin => Smilies, chosse import, type patch of `LFJAnimateEmoji` folder. then include js and css .
-
 <img src="https://i.imgur.com/7qbmYCp.png" />

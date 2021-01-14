@@ -6,7 +6,7 @@
 
 ### Note :
 - Use it at your own risk.
-- I have configured all the appropriate parameters to use with the sticker set of Zalo, and have 180 Emoji already, you can download more Zalo Stickers as you want, but it's must to put inside a folder name `AnimajiXen` to work.
+- I have configured all the appropriate parameters to use with the sticker set of Zalo, and have 180 Emoji already, you can download more Zalo Stickers as you want, but it's must  put the stickers inside folder with named `AnimajiXen` to work.
 - If you want to use a sticker of facebook or whatapp just download js from CDN and animation parameters, width and height of images.
 - If you want to build a plguin with this repo, i hope you will credit leading to this git.
 

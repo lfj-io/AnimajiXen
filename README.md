@@ -1,15 +1,14 @@
 # AnimajiXen
 
 <p align="center"><img src="https://github.com/lfj-io/AnimajiXen/raw/main/trailer.gif" /></p>
-<p align="center"><img src="https://github.com/lfj-io/AnimajiXen/blob/main/sprite_59.png?raw=true" /> Không gif nhưng lại động.</p>
+<p align="center"><img src="https://github.com/lfj-io/AnimajiXen/blob/main/sprite_59.png?raw=true" /> Not a  gif but it animated.</p>
 
 
-### Lưu ý :
-- Bạn tự chịu những rủi ro phát sinh khi sử dụng.
-- Mình đã config mọi thông số phù hợp sử dụng với bộ sticker của Zalo, và có sẵn 100 Emoji rồi, nếu không thích thì các bạn có thể tải thêm Sticker của zalo băng cách vào [chat.zalo.me](https://chat.zalo.me/) để bắt hình ảnh sticker cho nét nhất thì dùng DevTools có sẵn, hoặc mấy chương trình bên ngoài như Fiddler. Sau khi tải thì bạn chép vào thư mục `LFJAnimateEmoji` (theo dướng dẫn dưới) thì sticker mới hoạt động nhé. 
-- Nếu muốn dùng sticker của facebook hoặc whatapp thì bạn phải biết chút chút code, để chỉnh lại thông số cho phù hợp, do mỗi bên làm 1 kiểu, chỉnh không đúng nó sẽ ... rất mắc cười.
-- Nếu bạn muốn phát triển thêm cho nó hoàn chỉnh thành một plguin, mình hy vọng bạn sẽ chừa một chỗ để ghi credit dẫn đến git này.
-
+### Note :
+- Use it at your own risk.
+- I have configured all the appropriate parameters to use with the sticker set of Zalo, and have 180 Emoji already, you can download more Zalo Stickers as you want, but it's must to put inside a folder name `AnimajiXen` to work.
+- If you want to use a sticker of facebook or whatapp just download js from CDN and animation parameters, width and height of images.
+- If you want to build a plguin with this repo, i hope you will credit leading to this git.
 
 
 ## Installation

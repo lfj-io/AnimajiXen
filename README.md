@@ -25,7 +25,7 @@
 2. Add js to right before body close (`</body>`)
 > `<script src="https://cdn.jsdelivr.net/gh/lfj-io/files/js/AnimajiXen.min.js"></script>`
 
-3. Import [smilies.xml (not for selfhosting)](https://raw.githubusercontent.com/lfj-io/AnimajiXen/609c4538ad508d2ad40b070f4d5898ebf9452b4d/smilies.xml) at Admin >Templates> smilies . Done.
+3. Import smilies [smilies.xml](https://raw.githubusercontent.com/lfj-io/AnimajiXen/609c4538ad508d2ad40b070f4d5898ebf9452b4d/smilies.xml) at Admin >Templates> smilies . Done.
 
 
 <img src="https://i.imgur.com/7qbmYCp.png" />
